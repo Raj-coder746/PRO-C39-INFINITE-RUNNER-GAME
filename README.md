@@ -1,1 +1,2 @@
-# PRO-C39-INFINITE-RUNNER-GAME
+# trex-pro
+trex project
